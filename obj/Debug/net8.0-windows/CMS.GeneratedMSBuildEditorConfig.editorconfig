@@ -14,6 +14,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CMS
+<<<<<<< HEAD
 build_property.ProjectDir = D:\Learning\APIIT\SEM02\SDAM\CMS\
+=======
+build_property.ProjectDir = C:\Users\User\Downloads\SDAM Assignment\sdam-cms\
+>>>>>>> 2e48b90dcddbd2d58093bb8e34175db6dc1b786e
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

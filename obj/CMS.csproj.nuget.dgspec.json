@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\CMS.csproj": {}
   },
   "projects": {
@@ -12,13 +13,22 @@
         "projectPath": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\CMS.csproj",
         "packagesPath": "C:\\Users\\Savi\\.nuget\\packages\\",
         "outputPath": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\obj\\",
+=======
+    "C:\\Users\\User\\Downloads\\SDAM Assignment\\sdam-cms\\CMS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\User\\Downloads\\SDAM Assignment\\sdam-cms\\CMS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Downloads\\SDAM Assignment\\sdam-cms\\CMS.csproj",
+        "projectName": "CMS",
+        "projectPath": "C:\\Users\\User\\Downloads\\SDAM Assignment\\sdam-cms\\CMS.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Downloads\\SDAM Assignment\\sdam-cms\\obj\\",
+>>>>>>> 2e48b90dcddbd2d58093bb8e34175db6dc1b786e
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Savi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
