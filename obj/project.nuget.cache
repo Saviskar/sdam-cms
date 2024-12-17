@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "w9mAaCJd8Fk=",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\CMS.csproj",
+=======
   "dgSpecHash": "xSgehla5DkA=",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Downloads\\SDAM Assignment\\sdam-cms\\CMS.csproj",
+>>>>>>> 2e48b90dcddbd2d58093bb8e34175db6dc1b786e
   "expectedPackageFiles": [],
   "logs": []
 }

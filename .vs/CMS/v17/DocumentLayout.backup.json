@@ -1,5 +1,16 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\CMS.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMS.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\CMS.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMS.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+=======
   "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\SDAM Assignment\\sdam-cms\\",
   "Documents": [
     {
@@ -9,6 +20,7 @@
     {
       "AbsoluteMoniker": "D:0:0:{4B3D6921-4F0D-44AB-95F6-360558E2435E}|CMS.csproj|c:\\users\\user\\downloads\\sdam assignment\\sdam-cms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4B3D6921-4F0D-44AB-95F6-360558E2435E}|CMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+>>>>>>> 2e48b90dcddbd2d58093bb8e34175db6dc1b786e
     }
   ],
   "DocumentGroupContainers": [
@@ -39,6 +51,16 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
+              "Title": "CMS.csproj.user",
+              "DocumentMoniker": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\CMS.csproj.user",
+              "RelativeDocumentMoniker": "CMS.csproj.user",
+              "ToolTip": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\CMS.csproj.user",
+              "RelativeToolTip": "CMS.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-12-17T18:40:40.621Z",
+=======
               "Title": "Conference.cs",
               "DocumentMoniker": "C:\\Users\\User\\Downloads\\SDAM Assignment\\sdam-cms\\Conference.cs",
               "RelativeDocumentMoniker": "Conference.cs",
@@ -47,11 +69,23 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T18:46:25.962Z",
+>>>>>>> 2e48b90dcddbd2d58093bb8e34175db6dc1b786e
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
+              "Title": "CMS.csproj",
+              "DocumentMoniker": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\CMS.csproj",
+              "RelativeDocumentMoniker": "CMS.csproj",
+              "ToolTip": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\CMS.csproj",
+              "RelativeToolTip": "CMS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T18:40:32.606Z",
+              "EditorCaption": ""
+=======
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\Downloads\\SDAM Assignment\\sdam-cms\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -60,6 +94,7 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T18:27:10.676Z",
               "EditorCaption": " [Design]"
+>>>>>>> 2e48b90dcddbd2d58093bb8e34175db6dc1b786e
             }
           ]
         }
