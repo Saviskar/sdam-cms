@@ -1,6 +1,16 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\saijv\\Desktop\\New folder (4)\\sdam-cms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3D6921-4F0D-44AB-95F6-360558E2435E}|CMS.csproj|c:\\users\\saijv\\desktop\\new folder (4)\\sdam-cms\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3D6921-4F0D-44AB-95F6-360558E2435E}|CMS.csproj|solutionrelative:participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3D6921-4F0D-44AB-95F6-360558E2435E}|CMS.csproj|C:\\Users\\saijv\\Desktop\\New folder (4)\\sdam-cms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+=======
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\",
   "Documents": [
     {
@@ -19,6 +29,7 @@
     {
       "AbsoluteMoniker": "D:0:0:{4B3D6921-4F0D-44AB-95F6-360558E2435E}|CMS.csproj|C:\\Users\\User\\Downloads\\SDAM Assignment\\sdam-cms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
 >>>>>>> 2e48b90dcddbd2d58093bb8e34175db6dc1b786e
+>>>>>>> 7f0b22f8daa58999a3e7e31a48321c5f9ed5d2ae
       "RelativeMoniker": "D:0:0:{4B3D6921-4F0D-44AB-95F6-360558E2435E}|CMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -51,6 +62,16 @@
               "$type": "Document",
               "DocumentIndex": 0,
 <<<<<<< HEAD
+              "Title": "Participant.cs",
+              "DocumentMoniker": "C:\\Users\\saijv\\Desktop\\New folder (4)\\sdam-cms\\Participant.cs",
+              "RelativeDocumentMoniker": "Participant.cs",
+              "ToolTip": "C:\\Users\\saijv\\Desktop\\New folder (4)\\sdam-cms\\Participant.cs",
+              "RelativeToolTip": "Participant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:44:25.603Z",
+=======
+<<<<<<< HEAD
               "Title": "Session.cs",
               "DocumentMoniker": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\Session.cs",
               "RelativeDocumentMoniker": "Session.cs",
@@ -69,12 +90,21 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T18:46:25.962Z",
 >>>>>>> 2e48b90dcddbd2d58093bb8e34175db6dc1b786e
+>>>>>>> 7f0b22f8daa58999a3e7e31a48321c5f9ed5d2ae
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\Users\\saijv\\Desktop\\New folder (4)\\sdam-cms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\saijv\\Desktop\\New folder (4)\\sdam-cms\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:27:10.676Z"
+=======
 <<<<<<< HEAD
               "DocumentMoniker": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -91,6 +121,7 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T18:27:10.676Z"
 >>>>>>> 2e48b90dcddbd2d58093bb8e34175db6dc1b786e
+>>>>>>> 7f0b22f8daa58999a3e7e31a48321c5f9ed5d2ae
             }
           ]
         }
