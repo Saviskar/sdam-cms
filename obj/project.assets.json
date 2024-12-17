@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Savi\\source\\repos\\CMS\\CMS.csproj",
+      "projectUniqueName": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\CMS.csproj",
       "projectName": "CMS",
-      "projectPath": "C:\\Users\\Savi\\source\\repos\\CMS\\CMS.csproj",
+      "projectPath": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\CMS.csproj",
       "packagesPath": "C:\\Users\\Savi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Savi\\source\\repos\\CMS\\obj\\",
+      "outputPath": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
