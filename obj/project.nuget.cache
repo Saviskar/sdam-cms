@@ -1,8 +1,26 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "y1nnDqKUv7c=",
   "success": true,
   "projectFilePath": "C:\\Users\\Avethran\\Downloads\\New folder (3)\\sdam-cms\\CMS.csproj",
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "sCpNmBevMbY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saijv\\Desktop\\New folder (4)\\sdam-cms\\CMS.csproj",
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "w9mAaCJd8Fk=",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\CMS.csproj",
+=======
+  "dgSpecHash": "xSgehla5DkA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Downloads\\SDAM Assignment\\sdam-cms\\CMS.csproj",
+>>>>>>> 2e48b90dcddbd2d58093bb8e34175db6dc1b786e
+>>>>>>> 7f0b22f8daa58999a3e7e31a48321c5f9ed5d2ae
+>>>>>>> 16beb5008e6de142bed0d2236fe03978dcba343b
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -8,24 +8,60 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Avethran\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+=======
+<<<<<<< HEAD
+    "C:\\Users\\saijv\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\User\\.nuget\\packages\\": {}
+>>>>>>> 7f0b22f8daa58999a3e7e31a48321c5f9ed5d2ae
+>>>>>>> 16beb5008e6de142bed0d2236fe03978dcba343b
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Avethran\\Downloads\\New folder (3)\\sdam-cms\\CMS.csproj",
       "projectName": "CMS",
       "projectPath": "C:\\Users\\Avethran\\Downloads\\New folder (3)\\sdam-cms\\CMS.csproj",
       "packagesPath": "C:\\Users\\Avethran\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Avethran\\Downloads\\New folder (3)\\sdam-cms\\obj\\",
+=======
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\saijv\\Desktop\\New folder (4)\\sdam-cms\\CMS.csproj",
+      "projectName": "CMS",
+      "projectPath": "C:\\Users\\saijv\\Desktop\\New folder (4)\\sdam-cms\\CMS.csproj",
+      "packagesPath": "C:\\Users\\saijv\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\saijv\\Desktop\\New folder (4)\\sdam-cms\\obj\\",
+>>>>>>> 16beb5008e6de142bed0d2236fe03978dcba343b
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\Avethran\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+        "C:\\Users\\saijv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+      "projectUniqueName": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\CMS.csproj",
+      "projectName": "CMS",
+      "projectPath": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\CMS.csproj",
+      "packagesPath": "C:\\Users\\Savi\\.nuget\\packages\\",
+      "outputPath": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\User\\Downloads\\SDAM Assignment\\sdam-cms\\CMS.csproj",
+      "projectName": "CMS",
+      "projectPath": "C:\\Users\\User\\Downloads\\SDAM Assignment\\sdam-cms\\CMS.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Downloads\\SDAM Assignment\\sdam-cms\\obj\\",
+>>>>>>> 2e48b90dcddbd2d58093bb8e34175db6dc1b786e
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 7f0b22f8daa58999a3e7e31a48321c5f9ed5d2ae
+>>>>>>> 16beb5008e6de142bed0d2236fe03978dcba343b
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +69,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -75,7 +110,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
