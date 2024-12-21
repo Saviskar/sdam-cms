@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "w9mAaCJd8Fk=",
   "success": true,
   "projectFilePath": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\CMS.csproj",
-=======
-  "dgSpecHash": "xSgehla5DkA=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\User\\Downloads\\SDAM Assignment\\sdam-cms\\CMS.csproj",
->>>>>>> 2e48b90dcddbd2d58093bb8e34175db6dc1b786e
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

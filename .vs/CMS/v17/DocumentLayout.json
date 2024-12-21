@@ -1,6 +1,5 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\",
   "Documents": [
     {
@@ -8,17 +7,7 @@
       "RelativeMoniker": "D:0:0:{4B3D6921-4F0D-44AB-95F6-360558E2435E}|CMS.csproj|solutionrelative:session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B3D6921-4F0D-44AB-95F6-360558E2435E}|CMS.csproj|d:\\learning\\apiit\\sem02\\sdam\\cms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-=======
-  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\SDAM Assignment\\sdam-cms\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{4B3D6921-4F0D-44AB-95F6-360558E2435E}|CMS.csproj|c:\\users\\user\\downloads\\sdam assignment\\sdam-cms\\conference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B3D6921-4F0D-44AB-95F6-360558E2435E}|CMS.csproj|solutionrelative:conference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B3D6921-4F0D-44AB-95F6-360558E2435E}|CMS.csproj|C:\\Users\\User\\Downloads\\SDAM Assignment\\sdam-cms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
->>>>>>> 2e48b90dcddbd2d58093bb8e34175db6dc1b786e
+      "AbsoluteMoniker": "D:0:0:{4B3D6921-4F0D-44AB-95F6-360558E2435E}|CMS.csproj|D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4B3D6921-4F0D-44AB-95F6-360558E2435E}|CMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -29,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -50,32 +35,20 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-<<<<<<< HEAD
               "Title": "Session.cs",
               "DocumentMoniker": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\Session.cs",
               "RelativeDocumentMoniker": "Session.cs",
               "ToolTip": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\Session.cs",
               "RelativeToolTip": "Session.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwAwAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T18:41:44.038Z",
-=======
-              "Title": "Conference.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SDAM Assignment\\sdam-cms\\Conference.cs",
-              "RelativeDocumentMoniker": "Conference.cs",
-              "ToolTip": "C:\\Users\\User\\Downloads\\SDAM Assignment\\sdam-cms\\Conference.cs",
-              "RelativeToolTip": "Conference.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T18:46:25.962Z",
->>>>>>> 2e48b90dcddbd2d58093bb8e34175db6dc1b786e
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-<<<<<<< HEAD
               "DocumentMoniker": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\Learning\\APIIT\\SEM02\\SDAM\\CMS\\Form1.cs [Design]",
@@ -83,14 +56,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T18:40:55.281Z",
               "EditorCaption": " [Design]"
-=======
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\SDAM Assignment\\sdam-cms\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\User\\Downloads\\SDAM Assignment\\sdam-cms\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T18:27:10.676Z"
->>>>>>> 2e48b90dcddbd2d58093bb8e34175db6dc1b786e
             }
           ]
         }
